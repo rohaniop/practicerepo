@@ -1,3 +1,7 @@
 this feature 2
 check for two branch check for git conflict.
+
 from master LAL
+
+from stging LAL
+
