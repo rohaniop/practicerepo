@@ -1,2 +1,2 @@
 this feature 2
-check for two branches.
+check for two branch check for git conflict.
